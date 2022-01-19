@@ -1,0 +1,5 @@
+public class GitJiggyWithIt {
+public static void main(Strings[] args){
+system.out.println("Git Jiggy With It");
+}
+}
